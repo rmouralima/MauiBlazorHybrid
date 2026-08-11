@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="../MauiBlazorHybrid.Data/MauiBlazorHybrid.Data.csproj" />
+  <Project Path="MauiBlazorHybrid.csproj">
+    <Deploy Solution="Debug|*" />
+  </Project>
+</Solution>

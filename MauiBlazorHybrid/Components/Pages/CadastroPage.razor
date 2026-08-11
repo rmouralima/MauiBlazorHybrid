@@ -1,0 +1,118 @@
+﻿@page "/cadastros"
+@using MauiBlazorHybrid.Data.Models
+@using MauiBlazorHybrid.Services
+@inject CadastroService CadastroService
+
+<h3>Gerenciar Cadastros</h3>
+
+<!-- Formulário de Casdastro -->
+<!-- O EditForm recebe todas as validações [Required] que você está em MauiBlazorHybrid.Data/Models/Cadastro.cs -->
+<EditForm Model="@cadastroAtual" OnValidSubmit="SalvarAsync">
+    <DataAnnotationsValidator />
+    <ValidationSummary style="color: red;" />
+
+    <div style="margin-bottom: 10px;">
+        <label>Nome:</label>
+        <InputText @bind-Value="cadastroAtual.Nome" class="form-control" />
+    </div>
+
+    <div style="margin-bottom: 10px;">
+        <label>Email:</label>
+        <InputText @bind-Value="cadastroAtual.Email" class="form-control" />
+    </div>
+
+    <div style="margin-bottom: 10px;">
+        <label>Telefone:</label>
+        <InputText @bind-Value="cadastroAtual.Telefone" class="form-control" />
+    </div>
+
+    <button type="submit" class="btn btn-primary">Salvar</button>
+    <button type="button" class="btn btn-secondary" @onclick="CancelarEdicao">Cancelar</button>
+</EditForm>
+
+<hr />
+
+<!-- Listar dados do Banco de dados SQLite -->
+<h4>Cadastros Salvos</h4>
+
+@if (listaCadastros == null)
+{
+    <p><em>Carregando dados do SQLite...</em></p>
+}
+else if (!listaCadastros.Any())
+{
+    <p>Nenhum cadastro encontrado.</p>
+}
+else
+{
+    <table class="table">
+        <thead>
+            <tr>
+                <th>Nome</th>
+                <th>Email</th>
+                <th>Telefone</th>
+                <th>Ações</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in listaCadastros)
+            {
+                <tr>
+                    <td>@item.Nome</td>
+                    <td>@item.Email</td>
+                    <td>@item.Telefone</td>
+                    <td>
+                        <button class="btn btn-sm btn-warning" @onclick="() => Editar(item)">Editar</button>
+                        <button class="btn btn-sm btn-danger" @onclick="() => ExcluirAsync(item)">Excluir</button>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+}
+
+<!-- Seção de Lógica (O Controller da Página) -->
+@code {
+    // Variáveis de estado da tela inicial
+    private List<Cadastro>? listaCadastros;
+    private Cadastro cadastroAtual = new Cadastro();
+
+    // Executa assim que a tela é aberta
+    protected override async Task OnInitializedAsync()
+    {
+        await CarregarListaAsync();
+    }
+
+    private async Task CarregarListaAsync()
+    {
+        listaCadastros = await CadastroService.ObterAsync();
+    }
+
+    private async Task SalvarAsync()
+    {
+        // O OnValidSubmit garante que isso só roda se Nome, Email e Telefone forem preenchidos
+        await CadastroService.SalvarAsync(cadastroAtual);
+
+        // Limpa o formulário e instância um novo formulário de cadastro
+        cadastroAtual = new Cadastro();
+        await CarregarListaAsync();
+    }
+
+    private void Editar(Cadastro itemSelecionado)
+    {
+        // Mostra os dados do item clicado para o formulário
+        cadastroAtual = itemSelecionado;
+    }
+
+    private async Task ExcluirAsync(Cadastro itemSelecionado)
+    {
+        await CadastroService.ExcluirAsync(itemSelecionado);
+        await CarregarListaAsync();
+    }
+
+    private void CancelarEdicao()
+    {
+        // Apenas limpa o formulário instanciado
+        cadastroAtual = new Cadastro();
+    }
+}

@@ -1,0 +1,115 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Github\\MauiBlazorHybrid\\MauiBlazorHybrid\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{35C6FB72-297D-4444-B2F8-78AFF4E0DD55}|MauiBlazorHybrid.csproj|c:\\github\\mauiblazorhybrid\\mauiblazorhybrid\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{35C6FB72-297D-4444-B2F8-78AFF4E0DD55}|MauiBlazorHybrid.csproj|solutionrelative:components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E2F4052-B361-43E8-84DA-6EB533DE6341}|..\\MauiBlazorHybrid.Data\\MauiBlazorHybrid.Data.csproj|c:\\github\\mauiblazorhybrid\\mauiblazorhybrid.data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E2F4052-B361-43E8-84DA-6EB533DE6341}|..\\MauiBlazorHybrid.Data\\MauiBlazorHybrid.Data.csproj|c:\\github\\mauiblazorhybrid\\mauiblazorhybrid.data\\models\\cadastro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35C6FB72-297D-4444-B2F8-78AFF4E0DD55}|MauiBlazorHybrid.csproj|c:\\github\\mauiblazorhybrid\\mauiblazorhybrid\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35C6FB72-297D-4444-B2F8-78AFF4E0DD55}|MauiBlazorHybrid.csproj|solutionrelative:mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35C6FB72-297D-4444-B2F8-78AFF4E0DD55}|MauiBlazorHybrid.csproj|c:\\github\\mauiblazorhybrid\\mauiblazorhybrid\\components\\pages\\cadastropage.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{35C6FB72-297D-4444-B2F8-78AFF4E0DD55}|MauiBlazorHybrid.csproj|solutionrelative:components\\pages\\cadastropage.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 376,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "NavMenu.razor",
+              "DocumentMoniker": "C:\\Github\\MauiBlazorHybrid\\MauiBlazorHybrid\\Components\\Layout\\NavMenu.razor",
+              "RelativeDocumentMoniker": "Components\\Layout\\NavMenu.razor",
+              "ToolTip": "C:\\Github\\MauiBlazorHybrid\\MauiBlazorHybrid\\Components\\Layout\\NavMenu.razor",
+              "RelativeToolTip": "Components\\Layout\\NavMenu.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-08-10T22:52:51.491Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CadastroPage.razor",
+              "DocumentMoniker": "C:\\Github\\MauiBlazorHybrid\\MauiBlazorHybrid\\Components\\Pages\\CadastroPage.razor",
+              "RelativeDocumentMoniker": "Components\\Pages\\CadastroPage.razor",
+              "ToolTip": "C:\\Github\\MauiBlazorHybrid\\MauiBlazorHybrid\\Components\\Pages\\CadastroPage.razor",
+              "RelativeToolTip": "Components\\Pages\\CadastroPage.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-08-10T22:50:56.327Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MauiProgram.cs",
+              "DocumentMoniker": "C:\\Github\\MauiBlazorHybrid\\MauiBlazorHybrid\\MauiProgram.cs",
+              "RelativeDocumentMoniker": "MauiProgram.cs",
+              "ToolTip": "C:\\Github\\MauiBlazorHybrid\\MauiBlazorHybrid\\MauiProgram.cs",
+              "RelativeToolTip": "MauiProgram.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAQwCoAAABhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-10T20:41:45.486Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Cadastro.cs",
+              "DocumentMoniker": "C:\\Github\\MauiBlazorHybrid\\MauiBlazorHybrid.Data\\Models\\Cadastro.cs",
+              "RelativeDocumentMoniker": "..\\MauiBlazorHybrid.Data\\Models\\Cadastro.cs",
+              "ToolTip": "C:\\Github\\MauiBlazorHybrid\\MauiBlazorHybrid.Data\\Models\\Cadastro.cs",
+              "RelativeToolTip": "..\\MauiBlazorHybrid.Data\\Models\\Cadastro.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABAAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-10T19:29:34.071Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Github\\MauiBlazorHybrid\\MauiBlazorHybrid.Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "..\\MauiBlazorHybrid.Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Github\\MauiBlazorHybrid\\MauiBlazorHybrid.Data\\AppDbContext.cs",
+              "RelativeToolTip": "..\\MauiBlazorHybrid.Data\\AppDbContext.cs",
+              "ViewState": "AgIAADsAAAAAAAAAAAAswBUAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-10T19:10:20.14Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
