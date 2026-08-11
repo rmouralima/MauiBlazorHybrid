@@ -1,49 +1,9 @@
-2026-08-10 22:58:49.970: [INFO] CurrentProfilePath: C:\Github\MauiBlazorHybrid\MauiBlazorHybrid\bin\Debug\net10.0-windows10.0.19041.0\win-x64\MauiBlazorHybrid.exe.WebView2\EBWebView\Default
-2026-08-10 22:58:49.970: [INFO] Profiles total count: 1
-2026-08-10 22:58:49.970: [INFO] Profile: name=Perfil 1 path=C:\Github\MauiBlazorHybrid\MauiBlazorHybrid\bin\Debug\net10.0-windows10.0.19041.0\win-x64\MauiBlazorHybrid.exe.WebView2\EBWebView\Default lastActive=null
-2026-08-10 22:58:49.970: [INFO] LastUsedProfileDir: C:\Github\MauiBlazorHybrid\MauiBlazorHybrid\bin\Debug\net10.0-windows10.0.19041.0\win-x64\MauiBlazorHybrid.exe.WebView2\EBWebView\Default
-2026-08-10 22:58:49.970: [INFO] OnDoneLoading sync enabled: 0
-2026-08-10 22:58:49.970: [INFO] BookmarkModelLoaded, ids_reassigned: 0
-2026-08-10 22:58:49.970: [INFO] BookmarksLoadDropped droppedNodes=0
-2026-08-10 22:58:49.970: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
-2026-08-10 22:59:43.665: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
-2026-08-10 23:00:31.239: [INFO] CurrentProfilePath: C:\Github\MauiBlazorHybrid\MauiBlazorHybrid\bin\Debug\net10.0-windows10.0.19041.0\win-x64\MauiBlazorHybrid.exe.WebView2\EBWebView\Default
-2026-08-10 23:00:31.239: [INFO] Profiles total count: 1
-2026-08-10 23:00:31.239: [INFO] Profile: name=Perfil 1 path=C:\Github\MauiBlazorHybrid\MauiBlazorHybrid\bin\Debug\net10.0-windows10.0.19041.0\win-x64\MauiBlazorHybrid.exe.WebView2\EBWebView\Default lastActive=2026-08-10T22:58:51.191Z
-2026-08-10 23:00:31.239: [INFO] LastUsedProfileDir: C:\Github\MauiBlazorHybrid\MauiBlazorHybrid\bin\Debug\net10.0-windows10.0.19041.0\win-x64\MauiBlazorHybrid.exe.WebView2\EBWebView\Default
-2026-08-10 23:00:31.240: [INFO] MostRecentlyActiveProfile: name=Perfil 1 path=C:\Github\MauiBlazorHybrid\MauiBlazorHybrid\bin\Debug\net10.0-windows10.0.19041.0\win-x64\MauiBlazorHybrid.exe.WebView2\EBWebView\Default lastActive=2026-08-10T22:58:51.191Z
-2026-08-10 23:00:31.240: [INFO] OnDoneLoading sync enabled: 0
-2026-08-10 23:00:31.240: [INFO] BookmarkModelLoaded, ids_reassigned: 0
-2026-08-10 23:00:31.240: [INFO] BookmarksLoadDropped droppedNodes=0
-2026-08-10 23:00:31.240: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
-2026-08-10 23:02:23.250: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
-2026-08-10 23:09:15.641: [INFO] CurrentProfilePath: C:\Github\MauiBlazorHybrid\MauiBlazorHybrid\bin\Debug\net10.0-windows10.0.19041.0\win-x64\MauiBlazorHybrid.exe.WebView2\EBWebView\Default
-2026-08-10 23:09:15.641: [INFO] Profiles total count: 1
-2026-08-10 23:09:15.642: [INFO] Profile: name=Perfil 1 path=C:\Github\MauiBlazorHybrid\MauiBlazorHybrid\bin\Debug\net10.0-windows10.0.19041.0\win-x64\MauiBlazorHybrid.exe.WebView2\EBWebView\Default lastActive=2026-08-10T23:00:31.976Z
-2026-08-10 23:09:15.642: [INFO] LastUsedProfileDir: C:\Github\MauiBlazorHybrid\MauiBlazorHybrid\bin\Debug\net10.0-windows10.0.19041.0\win-x64\MauiBlazorHybrid.exe.WebView2\EBWebView\Default
-2026-08-10 23:09:15.642: [INFO] MostRecentlyActiveProfile: name=Perfil 1 path=C:\Github\MauiBlazorHybrid\MauiBlazorHybrid\bin\Debug\net10.0-windows10.0.19041.0\win-x64\MauiBlazorHybrid.exe.WebView2\EBWebView\Default lastActive=2026-08-10T23:00:31.976Z
-2026-08-10 23:09:15.642: [INFO] OnDoneLoading sync enabled: 0
-2026-08-10 23:09:15.642: [INFO] BookmarkModelLoaded, ids_reassigned: 0
-2026-08-10 23:09:15.642: [INFO] BookmarksLoadDropped droppedNodes=0
-2026-08-10 23:09:15.642: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
-2026-08-10 23:11:45.125: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
-2026-08-10 23:22:15.463: [INFO] CurrentProfilePath: C:\Github\MauiBlazorHybrid\MauiBlazorHybrid\bin\Debug\net10.0-windows10.0.19041.0\win-x64\MauiBlazorHybrid.exe.WebView2\EBWebView\Default
-2026-08-10 23:22:15.463: [INFO] Profiles total count: 1
-2026-08-10 23:22:15.464: [INFO] Profile: name=Perfil 1 path=C:\Github\MauiBlazorHybrid\MauiBlazorHybrid\bin\Debug\net10.0-windows10.0.19041.0\win-x64\MauiBlazorHybrid.exe.WebView2\EBWebView\Default lastActive=2026-08-10T23:11:45.022Z
-2026-08-10 23:22:15.464: [INFO] LastUsedProfileDir: C:\Github\MauiBlazorHybrid\MauiBlazorHybrid\bin\Debug\net10.0-windows10.0.19041.0\win-x64\MauiBlazorHybrid.exe.WebView2\EBWebView\Default
-2026-08-10 23:22:15.464: [INFO] MostRecentlyActiveProfile: name=Perfil 1 path=C:\Github\MauiBlazorHybrid\MauiBlazorHybrid\bin\Debug\net10.0-windows10.0.19041.0\win-x64\MauiBlazorHybrid.exe.WebView2\EBWebView\Default lastActive=2026-08-10T23:11:45.022Z
-2026-08-10 23:22:15.464: [INFO] OnDoneLoading sync enabled: 0
-2026-08-10 23:22:15.464: [INFO] BookmarkModelLoaded, ids_reassigned: 0
-2026-08-10 23:22:15.464: [INFO] BookmarksLoadDropped droppedNodes=0
-2026-08-10 23:22:15.464: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
-2026-08-10 23:22:59.421: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
-2026-08-10 23:23:12.249: [INFO] CurrentProfilePath: C:\Github\MauiBlazorHybrid\MauiBlazorHybrid\bin\Debug\net10.0-windows10.0.19041.0\win-x64\MauiBlazorHybrid.exe.WebView2\EBWebView\Default
-2026-08-10 23:23:12.249: [INFO] Profiles total count: 1
-2026-08-10 23:23:12.250: [INFO] Profile: name=Perfil 1 path=C:\Github\MauiBlazorHybrid\MauiBlazorHybrid\bin\Debug\net10.0-windows10.0.19041.0\win-x64\MauiBlazorHybrid.exe.WebView2\EBWebView\Default lastActive=2026-08-10T23:22:15.981Z
-2026-08-10 23:23:12.250: [INFO] LastUsedProfileDir: C:\Github\MauiBlazorHybrid\MauiBlazorHybrid\bin\Debug\net10.0-windows10.0.19041.0\win-x64\MauiBlazorHybrid.exe.WebView2\EBWebView\Default
-2026-08-10 23:23:12.250: [INFO] MostRecentlyActiveProfile: name=Perfil 1 path=C:\Github\MauiBlazorHybrid\MauiBlazorHybrid\bin\Debug\net10.0-windows10.0.19041.0\win-x64\MauiBlazorHybrid.exe.WebView2\EBWebView\Default lastActive=2026-08-10T23:22:15.981Z
-2026-08-10 23:23:12.250: [INFO] OnDoneLoading sync enabled: 0
-2026-08-10 23:23:12.250: [INFO] BookmarkModelLoaded, ids_reassigned: 0
-2026-08-10 23:23:12.250: [INFO] BookmarksLoadDropped droppedNodes=0
-2026-08-10 23:23:12.250: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
-2026-08-10 23:23:55.776: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-11 01:10:08.353: [INFO] CurrentProfilePath: C:\Github\MauiBlazorHybrid\MauiBlazorHybrid\bin\Debug\net10.0-windows10.0.19041.0\win-x64\MauiBlazorHybrid.exe.WebView2\EBWebView\Default
+2026-08-11 01:10:08.353: [INFO] Profiles total count: 1
+2026-08-11 01:10:08.353: [INFO] Profile: name=Perfil 1 path=C:\Github\MauiBlazorHybrid\MauiBlazorHybrid\bin\Debug\net10.0-windows10.0.19041.0\win-x64\MauiBlazorHybrid.exe.WebView2\EBWebView\Default lastActive=null
+2026-08-11 01:10:08.353: [INFO] LastUsedProfileDir: C:\Github\MauiBlazorHybrid\MauiBlazorHybrid\bin\Debug\net10.0-windows10.0.19041.0\win-x64\MauiBlazorHybrid.exe.WebView2\EBWebView\Default
+2026-08-11 01:10:08.353: [INFO] OnDoneLoading sync enabled: 0
+2026-08-11 01:10:08.353: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-08-11 01:10:08.353: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-08-11 01:10:08.353: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-11 01:10:23.421: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1

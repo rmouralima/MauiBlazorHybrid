@@ -466,21 +466,29 @@
           "dependencies": {
             "Microsoft.AspNetCore.Components.WebView.Maui": {
               "target": "Package",
-              "version": "[10.0.20, )"
+              "version": "[10.0.90, )"
             },
             "Microsoft.Extensions.Logging.Debug": {
               "target": "Package",
-              "version": "[10.0.0, )"
+              "version": "[10.0.10, )"
             },
             "Microsoft.Maui.Controls": {
               "target": "Package",
-              "version": "[10.0.20, )"
+              "version": "[10.0.90, )"
             },
             "Microsoft.NET.ILLink.Tasks": {
               "suppressParent": "All",
               "target": "Package",
               "version": "[10.0.10, )",
               "autoReferenced": true
+            },
+            "SQLitePCLRaw.lib.e_sqlite3.android": {
+              "target": "Package",
+              "version": "[2.1.12, )"
+            },
+            "SQLitePCLRaw.lib.e_sqlite3.ios": {
+              "target": "Package",
+              "version": "[2.1.12, )"
             }
           },
           "imports": [
@@ -787,21 +795,29 @@
           "dependencies": {
             "Microsoft.AspNetCore.Components.WebView.Maui": {
               "target": "Package",
-              "version": "[10.0.20, )"
+              "version": "[10.0.90, )"
             },
             "Microsoft.Extensions.Logging.Debug": {
               "target": "Package",
-              "version": "[10.0.0, )"
+              "version": "[10.0.10, )"
             },
             "Microsoft.Maui.Controls": {
               "target": "Package",
-              "version": "[10.0.20, )"
+              "version": "[10.0.90, )"
             },
             "Microsoft.NET.ILLink.Tasks": {
               "suppressParent": "All",
               "target": "Package",
               "version": "[10.0.10, )",
               "autoReferenced": true
+            },
+            "SQLitePCLRaw.lib.e_sqlite3.android": {
+              "target": "Package",
+              "version": "[2.1.12, )"
+            },
+            "SQLitePCLRaw.lib.e_sqlite3.ios": {
+              "target": "Package",
+              "version": "[2.1.12, )"
             }
           },
           "imports": [
@@ -1108,21 +1124,29 @@
           "dependencies": {
             "Microsoft.AspNetCore.Components.WebView.Maui": {
               "target": "Package",
-              "version": "[10.0.20, )"
+              "version": "[10.0.90, )"
             },
             "Microsoft.Extensions.Logging.Debug": {
               "target": "Package",
-              "version": "[10.0.0, )"
+              "version": "[10.0.10, )"
             },
             "Microsoft.Maui.Controls": {
               "target": "Package",
-              "version": "[10.0.20, )"
+              "version": "[10.0.90, )"
             },
             "Microsoft.NET.ILLink.Tasks": {
               "suppressParent": "All",
               "target": "Package",
               "version": "[10.0.10, )",
               "autoReferenced": true
+            },
+            "SQLitePCLRaw.lib.e_sqlite3.android": {
+              "target": "Package",
+              "version": "[2.1.12, )"
+            },
+            "SQLitePCLRaw.lib.e_sqlite3.ios": {
+              "target": "Package",
+              "version": "[2.1.12, )"
             }
           },
           "imports": [
@@ -1430,15 +1454,23 @@
           "dependencies": {
             "Microsoft.AspNetCore.Components.WebView.Maui": {
               "target": "Package",
-              "version": "[10.0.20, )"
+              "version": "[10.0.90, )"
             },
             "Microsoft.Extensions.Logging.Debug": {
               "target": "Package",
-              "version": "[10.0.0, )"
+              "version": "[10.0.10, )"
             },
             "Microsoft.Maui.Controls": {
               "target": "Package",
-              "version": "[10.0.20, )"
+              "version": "[10.0.90, )"
+            },
+            "SQLitePCLRaw.lib.e_sqlite3.android": {
+              "target": "Package",
+              "version": "[2.1.12, )"
+            },
+            "SQLitePCLRaw.lib.e_sqlite3.ios": {
+              "target": "Package",
+              "version": "[2.1.12, )"
             }
           },
           "imports": [

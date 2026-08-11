@@ -52,13 +52,13 @@
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\MauiBlazorHybrid.styles.css'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
       <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"embao2w5ee"},{"Name":"integrity","Value":"sha256-qgb9ViFqxBnwW0xDUs9ejBK/bV5Y78y4dyqk78G1i1Y="},{"Name":"label","Value":"MauiBlazorHybrid.styles.css"}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"5439"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022qgb9ViFqxBnwW0xDUs9ejBK/bV5Y78y4dyqk78G1i1Y=\u0022"},{"Name":"Last-Modified","Value":"Tue, 11 Aug 2026 00:41:39 GMT"}]]]></ResponseHeaders>
+      <ResponseHeaders><![CDATA[[{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"5439"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022qgb9ViFqxBnwW0xDUs9ejBK/bV5Y78y4dyqk78G1i1Y=\u0022"},{"Name":"Last-Modified","Value":"Tue, 11 Aug 2026 01:06:28 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="MauiBlazorHybrid.styles.css">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\MauiBlazorHybrid.styles.css'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
       <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-qgb9ViFqxBnwW0xDUs9ejBK/bV5Y78y4dyqk78G1i1Y="}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"5439"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022qgb9ViFqxBnwW0xDUs9ejBK/bV5Y78y4dyqk78G1i1Y=\u0022"},{"Name":"Last-Modified","Value":"Tue, 11 Aug 2026 00:41:39 GMT"}]]]></ResponseHeaders>
+      <ResponseHeaders><![CDATA[[{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"5439"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022qgb9ViFqxBnwW0xDUs9ejBK/bV5Y78y4dyqk78G1i1Y=\u0022"},{"Name":"Last-Modified","Value":"Tue, 11 Aug 2026 01:06:28 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
   </ItemGroup>
 </Project>

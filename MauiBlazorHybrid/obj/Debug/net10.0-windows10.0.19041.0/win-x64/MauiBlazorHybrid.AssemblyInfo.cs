@@ -18,7 +18,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MauiBlazorHybrid")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0+e28a679b577b2e3d8f59d2b8fa21af7f7819b200")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0+b268caf60f00d8164c63278fc6eb3f443b969036")]
 [assembly: System.Reflection.AssemblyProductAttribute("MauiBlazorHybrid")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MauiBlazorHybrid")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

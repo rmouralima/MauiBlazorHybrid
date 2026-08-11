@@ -3,22 +3,22 @@
   "WorkspaceRootPath": "C:\\Github\\MauiBlazorHybrid\\MauiBlazorHybrid\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{35C6FB72-297D-4444-B2F8-78AFF4E0DD55}|MauiBlazorHybrid.csproj|c:\\github\\mauiblazorhybrid\\mauiblazorhybrid\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{35C6FB72-297D-4444-B2F8-78AFF4E0DD55}|MauiBlazorHybrid.csproj|solutionrelative:components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{267B48B1-EC84-022C-7516-70B24AFA5287}|MauiBlazorHybrid.csproj|c:\\github\\mauiblazorhybrid\\mauiblazorhybrid\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{267B48B1-EC84-022C-7516-70B24AFA5287}|MauiBlazorHybrid.csproj|solutionrelative:components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8E2F4052-B361-43E8-84DA-6EB533DE6341}|..\\MauiBlazorHybrid.Data\\MauiBlazorHybrid.Data.csproj|c:\\github\\mauiblazorhybrid\\mauiblazorhybrid.data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{267B48B1-EC84-022C-7516-70B24AFA5287}|MauiBlazorHybrid.csproj|c:\\github\\mauiblazorhybrid\\mauiblazorhybrid\\components\\pages\\cadastropage.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{267B48B1-EC84-022C-7516-70B24AFA5287}|MauiBlazorHybrid.csproj|solutionrelative:components\\pages\\cadastropage.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8E2F4052-B361-43E8-84DA-6EB533DE6341}|..\\MauiBlazorHybrid.Data\\MauiBlazorHybrid.Data.csproj|c:\\github\\mauiblazorhybrid\\mauiblazorhybrid.data\\models\\cadastro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{267B48B1-EC84-022C-7516-70B24AFA5287}|MauiBlazorHybrid.csproj|c:\\github\\mauiblazorhybrid\\mauiblazorhybrid\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{267B48B1-EC84-022C-7516-70B24AFA5287}|MauiBlazorHybrid.csproj|solutionrelative:mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{35C6FB72-297D-4444-B2F8-78AFF4E0DD55}|MauiBlazorHybrid.csproj|c:\\github\\mauiblazorhybrid\\mauiblazorhybrid\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{35C6FB72-297D-4444-B2F8-78AFF4E0DD55}|MauiBlazorHybrid.csproj|solutionrelative:mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1C36DCC3-750A-ADC8-208A-51C29A229B8E}|..\\MauiBlazorHybrid.Data\\MauiBlazorHybrid.Data.csproj|c:\\github\\mauiblazorhybrid\\mauiblazorhybrid.data\\models\\cadastro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{35C6FB72-297D-4444-B2F8-78AFF4E0DD55}|MauiBlazorHybrid.csproj|c:\\github\\mauiblazorhybrid\\mauiblazorhybrid\\components\\pages\\cadastropage.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{35C6FB72-297D-4444-B2F8-78AFF4E0DD55}|MauiBlazorHybrid.csproj|solutionrelative:components\\pages\\cadastropage.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{1C36DCC3-750A-ADC8-208A-51C29A229B8E}|..\\MauiBlazorHybrid.Data\\MauiBlazorHybrid.Data.csproj|c:\\github\\mauiblazorhybrid\\mauiblazorhybrid.data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -57,7 +57,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
               "Title": "CadastroPage.razor",
               "DocumentMoniker": "C:\\Github\\MauiBlazorHybrid\\MauiBlazorHybrid\\Components\\Pages\\CadastroPage.razor",
               "RelativeDocumentMoniker": "Components\\Pages\\CadastroPage.razor",
@@ -70,7 +70,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "MauiProgram.cs",
               "DocumentMoniker": "C:\\Github\\MauiBlazorHybrid\\MauiBlazorHybrid\\MauiProgram.cs",
               "RelativeDocumentMoniker": "MauiProgram.cs",
@@ -83,20 +83,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Cadastro.cs",
               "DocumentMoniker": "C:\\Github\\MauiBlazorHybrid\\MauiBlazorHybrid.Data\\Models\\Cadastro.cs",
               "RelativeDocumentMoniker": "..\\MauiBlazorHybrid.Data\\Models\\Cadastro.cs",
               "ToolTip": "C:\\Github\\MauiBlazorHybrid\\MauiBlazorHybrid.Data\\Models\\Cadastro.cs",
               "RelativeToolTip": "..\\MauiBlazorHybrid.Data\\Models\\Cadastro.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABAAAABBAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBJwBAAAABBAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-08-10T19:29:34.071Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "AppDbContext.cs",
               "DocumentMoniker": "C:\\Github\\MauiBlazorHybrid\\MauiBlazorHybrid.Data\\AppDbContext.cs",
               "RelativeDocumentMoniker": "..\\MauiBlazorHybrid.Data\\AppDbContext.cs",
