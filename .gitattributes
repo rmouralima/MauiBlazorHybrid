@@ -1,2 +1,5 @@
-# Auto detect text files and perform LF normalization
-* text=auto
+*.aidl linguist-generated=true
+*.roff linguist-generated=true
+*.man linguist-generated=true
+*.1 linguist-generated=true
+*.3 linguist-generated=true

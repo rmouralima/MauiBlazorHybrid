@@ -1,14 +1,12 @@
-# Pastas de compilação
+
 [Bb]in/
 [Oo]bj/
 
-# Arquivos de usuário do Visual Studio
 *.rsuser
 *.suo
 *.user
 *.userosscache
 *.sln.docstates
 
-# Bancos de dados locais (Opcional, para não subir o banco de testes)
 *.db
 *.sqlite
